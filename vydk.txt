@@ -1,0 +1,17 @@
+shadowsocks=5.183.179.108:9042, method=aes-256-cfb, password=S7KwUu7yBy58S3Ga, fast-open=false, udp-relay=false, tag=德国🇩🇪
+
+shadowsocks=185.224.250.142:9003, method=aes-256-cfb, password=JdmRK9gMEqFgs8nP, fast-open=false, udp-relay=false, tag=俄罗斯🇷🇺
+
+shadowsocks=91.201.65.81:9096, method=aes-256-cfb, password=fPQqrjEYk2fkekYW, fast-open=false, udp-relay=false, tag=意大利🇮🇹
+
+shadowsocks=185.246.154.13:9030, method=aes-256-cfb, password=GeregetR8cvQHzYr, fast-open=false, udp-relay=false, tag=中国🇨🇳
+
+shadowsocks=185.246.155.173:9072, method=aes-256-cfb, password=2cdH4pvLBw7CQPse, fast-open=false, udp-relay=false, tag=荷兰🇳🇱
+
+shadowsocks=45.82.255.180:9075, method=aes-256-cfb, password=watRKsmb7mP5uU6b, fast-open=false, udp-relay=false, tag=川建国🇺🇸
+
+shadowsocks=45.90.140.104:9001, method=aes-256-cfb, password=UkXRsXvR6buDMG2Y, fast-open=false, udp-relay=false, tag=英国🇬🇧
+
+shadowsocks=45.12.206.156:9005, method=aes-256-cfb, password=ZET59LF6DvCC8KVt, fast-open=false, udp-relay=false, tag=瑞士🇨🇭
+
+shadowsocks=213.183.60.60:9018, method=aes-256-cfb, password=fG2artUmHfNT2cX7, fast-open=false, udp-relay=false, tag=保加利亚🇧🇬
